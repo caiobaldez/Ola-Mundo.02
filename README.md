@@ -3,6 +3,6 @@
 
  Repositório criado durante aulas e estudos. 
 
- Essa linha eu aprendi a alterar diretamente no site do github.
+ Essa linha eu aprendi a alterar diretamente no site do github!
 
  
